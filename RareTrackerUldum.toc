@@ -1,4 +1,4 @@
-## Interface: 110200
+## Interface: 120001
 ## Title: RareTrackerUldum
 ## Notes: Track and coordinate rare spawn timers in Uldum.
 ## Author: Melroy
